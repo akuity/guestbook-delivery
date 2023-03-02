@@ -8,7 +8,7 @@ spec:
       generators:
       - pullRequest:
           github:
-            owner: nikita-akuity
+            owner: akuity
             repo: guestbook-delivery
       - clusters:
           selector:

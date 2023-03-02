@@ -20,7 +20,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/nikita-akuity/guestbook-delivery.git
+        repoURL: https://github.com/akuity/guestbook-delivery.git
         targetRevision: '{{head_sha}}'
         path: 'env/dev'
       destination:
